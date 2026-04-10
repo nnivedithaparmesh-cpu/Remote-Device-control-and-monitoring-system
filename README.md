@@ -200,6 +200,11 @@ Browser → POST /command → web_multi_ui.py
 ## Screenshots
 
 > Add screenshots of your web dashboard and terminal output here.
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/e034f40a-e2ab-4007-a905-9f8d053b8fb5" />
+<img width="1470" height="756" alt="image" src="https://github.com/user-attachments/assets/0de0c86c-ed83-41dd-a264-d3b4b5d30bfd" />
+<img width="1477" height="739" alt="image" src="https://github.com/user-attachments/assets/b4e94d66-0ad2-49da-807c-8f2995847a95" />
+
+
 
 ---
 
